@@ -5,7 +5,8 @@ namespace LogicalPrograms
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a string  : ");
+             Console.Write("Enter a string sentence : ");
+            Console.Write("Enter a string sentence : ");
             string name = Console.ReadLine();
             string reverse = string.Empty;
             
